@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.model {
+    max-width: 500px;
+    margin: auto;
+    padding-top: 52px;
+}
+.model .title{
+    text-align: center;
+}
+.model .title a{
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 80%;
+    color: #3d3d3d;
+    text-decoration: none;
+}
+.model .title span{
+    font-weight: 250px;
+    font-size: 18px;
+    line-height: 89%;
+    color: #3d3d3d;
+    margin: 0 11px;
+}
+.name{
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+}
+#username{
+    font-weight: 400;
+font-size: 14px;
+line-height: 114%;
+color: #a5a5a5;
+padding: 13px;
+}
+#password{
+    font-weight: 400;
+font-size: 14px;
+line-height: 114%;
+color: #a5a5a5;
+padding: 13px;
+}
+#email{
+    font-weight: 400;
+font-size: 14px;
+line-height: 114%;
+color: #a5a5a5;
+padding: 13px;
+}
+.registration{
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+}
+.password{
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+}
+
+.button{
+    background-color: #46A358;
+    color: #fff;
+    padding: 22.5px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 100%;
+    text-align: center;
+    border-radius: 5px;
+    width: 300px;
+    height: 45px;
+}
+
+
